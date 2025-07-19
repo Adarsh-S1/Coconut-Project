@@ -10,9 +10,18 @@ This project was proudly developed for the students of **Bhavans Vidya School**.
 
 -----
 
-
-
-
+<table>
+  <tr>
+    <td style="text-align: center; vertical-align: top;">
+      <h3>Consultancy request</h3>
+      <img src="request_for_project.jpg" alt="Original video frame without detection" width="100%">
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <h3>Completion of consultancy</h3>
+      <img src="completion_of_project.jpg" alt="Video frame with detected coconuts" width="100%">
+    </td>
+  </tr>
+</table>
 
 -----
 
