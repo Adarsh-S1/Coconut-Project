@@ -24,6 +24,13 @@ This project was proudly developed for the students of **Bhavans Vidya School**.
 </table>
 
 -----
+## Live demo
+<table>
+<tr>
+<img src="Images and videos/output1.gif" alt="Description of GIF" style="transform: rotate(90deg);">
+</tr>
+</table>
+-----
 
 ## How It Works
 
