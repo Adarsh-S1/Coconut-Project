@@ -10,6 +10,12 @@ This project was proudly developed for the students of **Bhavans Vidya School**.
 
 -----
 
+
+
+
+
+-----
+
 ## How It Works
 
 The core of this project utilizes the **YOLOv8** (You Only Look Once) deep learning model, a state-of-the-art object detection algorithm known for its speed and accuracy.
@@ -31,9 +37,9 @@ The `test.py` script provided in this repository performs the following steps:
 ```
 .
 ├── Images and videos/
-│   └── 3.mp4           # Input video for demonstration
+│   └── *.mp4           # Input video for demonstration
 ├── Output Video/
-│   └── output3.mp4     # Output video with detections (generated after running the script)
+│   └── *.mp4     # Output video with detections (generated after running the script)
 ├── best.pt             # Pre-trained YOLOv8 model weights for coconut detection
 └── test.py             # Main Python script for running the detection
 ```
@@ -61,8 +67,8 @@ pip install ultralytics opencv-python
 1.  **Clone the repository**:
 
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/Adarsh-S1/Coconut-Project.git
+    cd Coconut-Project
     ```
 
 2.  **Ensure model weights are present**: Make sure `best.pt` is in the root directory of the project.
@@ -101,5 +107,5 @@ You can customize the detection behavior by modifying the `test.py` script:
 
 -----
 
-**Developed for Bhavans Vidya School**
+**Developed for Bhavans Vidya School** <br />
 **Demonstrated at All India National Integration Camp 2025**
